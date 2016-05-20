@@ -1,3 +1,7 @@
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+# URL : http://khanrc.tistory.com/entry/Text-Mining-Tutoral-20-newsgroups
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
 # = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 # Loading the 20 newsgroups dataset
 # = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
